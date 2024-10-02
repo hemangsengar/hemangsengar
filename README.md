@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **Ai, Ml, Full-Stack, Dev-Ops, Docker**
+- 👯 I’m looking to collaborate on **any intresting Tech**
 
 - 💬 Ask me about **Machine Learning, LLM's, Open Ai**
 
