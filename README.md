@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BackEnd Deployment**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **any intresting Tech**
 
