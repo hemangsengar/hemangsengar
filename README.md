@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Hemang+Sengar;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Hemang+Sengar;Computer+Science+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -20,15 +20,15 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const hemang = {
-    location: "India 🇮🇳",
-    role: "Computer Science Student & Full-Stack Developer",
-    currentFocus: ["Data Science", "Web Development", "AI/ML"],
-    learning: ["React", "Node.js", "LSTM-based Time Series Prediction"],
-    interests: ["Building Scalable Applications", "Interactive Data Visualizations", "Problem Solving"],
-    funFact: "I love turning complex problems into elegant solutions ✨"
-};
+```python
+hemang = {
+    "location": "India 🇮🇳",
+    "role": "Computer Science Student & Developer",
+    "currentFocus": ["Machine Learning", "Web Development", "Data Science"],
+    "learning": ["LSTM Models", "Flask Applications", "Deep Learning"],
+    "projects": ["Stock Price Prediction", "UAV Detection", "Sentiment Analysis"],
+    "funFact": "I love turning complex problems into elegant solutions ✨"
+}
 ```
 
 ## 🛠️ Tech Stack
@@ -37,25 +37,17 @@ const hemang = {
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data Science & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Data Science & Machine Learning
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -63,8 +55,8 @@ const hemang = {
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
