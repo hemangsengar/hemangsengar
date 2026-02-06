@@ -79,7 +79,7 @@ I am a Backend Engineer and AI/ML enthusiast focused on building robust, scalabl
         <td><code>LangChain</code> <code>ChromaDB</code> <code>OpenAI</code></td>
       </tr>
       <tr>
-        <td><strong>🎤 <a href="https://github.com/hemangsengar/ai-voice-interviewer">AI Voice Interviewer</a></strong></td>
+        <td><strong>🎤 <a href="https://gen-ai-xi-eight.vercel.app/">AI Voice Interviewer</a></strong></td>
         <td>Automated voice assessment bot.</td>
         <td><code>Whisper</code> <code>FastAPI</code> <code>LLMs</code></td>
       </tr>
