@@ -101,37 +101,18 @@ I am a Backend Engineer and AI/ML enthusiast focused on building robust, scalabl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-  <!-- Profile Details Card -->
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemangsengar&theme=tokyonight" 
-    alt="Profile Summary"
-  />
+  <a href="https://github.com/hemangsengar">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hemangsengar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+
+  <a href="https://github.com/hemangsengar">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsengar&theme=tokyonight&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
 
   <br>
 
-  <!-- Stats Cards -->
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemangsengar&theme=tokyonight" 
-    height="200"
-    alt="Stats"
-  />
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemangsengar&theme=tokyonight" 
-    height="200"
-    alt="Productive Time"
-  />
-
-  <br>
-
-  <!-- Contribution Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hemangsengar&theme=tokyo-night&hide_border=true" 
-    width="95%"
-    alt="Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemangsengar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
