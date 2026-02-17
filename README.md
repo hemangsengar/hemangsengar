@@ -102,17 +102,9 @@ I am a Backend Engineer and AI/ML enthusiast focused on building robust, scalabl
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
 <div align="center">
-
   <a href="https://github.com/hemangsengar">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hemangsengar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsengar&theme=tokyonight&hide_border=true&background=10131f&ring=63b3ed&fire=9f7aea&currStreakLabel=63b3ed&sideLabels=e8f0fe&dates=6b7db3&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
-
-  <a href="https://github.com/hemangsengar">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsengar&theme=tokyonight&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemangsengar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemangsengar&theme=tokyo-night&hide_border=true&area=true&bg_color=10131f&line=63b3ed&point=9f7aea&area_color=63b3ed&color=e8f0fe" width="100%" />
 </div>
