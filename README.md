@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=HEMANG%20SINGH%20SENGAR&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%2FML%20Specialist&descAlignY=60&descSize=20" alt="Header"/>
-  
-  <br/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=CSE+Student+%40+Dayananda+Sagar+University;Building+Scalable+Backend+Systems;Python+%7C+AI%2FML+%7C+Automation;Turning+Ideas+into+Production+Code)](https://git.io/typing-svg)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a1628,60:0f3460,100:e94560&height=280&section=header&text=HEMANG%20SINGH%20SENGAR&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%2FML%20Builder&descAlignY=60&descSize=20" alt="Header"/>
+
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hemang--dev.tech-2c5364?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hemang-dev.tech)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=E94560&center=true&vCenter=true&width=650&lines=CSE+Student+%40+Dayananda+Sagar+University;Architecting+RAG+Pipelines+%26+AI+Systems;Python+%7C+FastAPI+%7C+LangChain+%7C+PyTorch;From+Prototype+to+Production)](https://git.io/typing-svg)
+
+  <br/>
+
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hemang--dev.tech-e94560?style=for-the-badge&logoColor=white)](https://hemang-dev.tech)
   &nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemangsinghsengar/)
+  &nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemangsengar)
   &nbsp;
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemang.sengar@hotmail.com)
 </div>
@@ -17,7 +19,8 @@
 <br/>
 
 ### 👨‍💻 About Me
-I am a Backend Engineer and AI/ML enthusiast focused on building robust, scalable systems. My passion lies in bridging the gap between complex machine learning models and production-ready applications.
+
+Backend Engineer and AI/ML builder focused on production-ready systems. I specialize in RAG pipelines, audio/ML tooling, and scalable backend architecture — bridging the gap between research-grade models and real-world applications.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
@@ -29,8 +32,8 @@ I am a Backend Engineer and AI/ML enthusiast focused on building robust, scalabl
       <tr>
         <th align="center" width="150">Languages</th>
         <th align="center" width="150">Backend</th>
-        <th align="center" width="200">AI / Data</th>
-        <th align="center" width="200">DevOps</th>
+        <th align="center" width="200">AI / ML</th>
+        <th align="center" width="200">DevOps & Infra</th>
       </tr>
     </thead>
     <tbody>
@@ -39,10 +42,10 @@ I am a Backend Engineer and AI/ML enthusiast focused on building robust, scalabl
           <img src="https://skillicons.dev/icons?i=python,js,ts,cs" width="120" alt="Languages" />
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,n8n" width="120" alt="Backend" />
+          <img src="https://skillicons.dev/icons?i=fastapi,django,flask,redis" width="120" alt="Backend" />
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis" width="150" alt="AI/Data" />
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb" width="120" alt="AI/ML" />
         </td>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,githubactions" width="150" alt="DevOps" />
@@ -50,6 +53,17 @@ I am a Backend Engineer and AI/ML enthusiast focused on building robust, scalabl
       </tr>
     </tbody>
   </table>
+
+  <br/>
+
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+  ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+  ![Whisper](https://img.shields.io/badge/Whisper-00A67E?style=flat-square&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+  ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 </div>
 
 <br/>
@@ -62,36 +76,41 @@ I am a Backend Engineer and AI/ML enthusiast focused on building robust, scalabl
   <table>
     <thead>
       <tr>
-        <th align="left" width="250">Project</th>
-        <th align="left" width="350">Description</th>
-        <th align="left" width="200">Tech Stack</th>
+        <th align="left" width="240">Project</th>
+        <th align="left" width="370">Description</th>
+        <th align="left" width="220">Tech Stack</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><strong>🛍️ <a href="https://raycreatess.works">RayCreates</a></strong></td>
-        <td>Live e-commerce platform with secure payments.</td>
-        <td><code>Python</code> <code>Razorpay</code> <code>PostgreSQL</code></td>
+        <td><strong>🎵 <a href="https://github.com/hemangsengar/laughing-parakeet">Audio Optimizer Studio</a></strong></td>
+        <td>AI-powered one-click audio enhancement platform. Runs a 4-stage pipeline: vocal isolation (Demucs) → denoising (Resemble Enhance) → reference mastering (Matchering) → loudness normalization to -14 LUFS.</td>
+        <td><code>FastAPI</code> <code>React</code> <code>PyTorch</code> <code>Demucs</code> <code>ffmpeg</code></td>
+      </tr>
+      <tr>
+        <td><strong>🛍️ <a href="https://raycreatess.com">Raycreatess</a></strong></td>
+        <td>Live e-commerce platform for digital products (Notion templates). Handles payments, email delivery, and customer management end-to-end.</td>
+        <td><code>Python</code> <code>Flask</code> <code>Razorpay</code> <code>PostgreSQL</code></td>
       </tr>
       <tr>
         <td><strong>🧠 <a href="https://github.com/hemangsengar/codebase-rag">Codebase RAG</a></strong></td>
-        <td>Natural language code search engine.</td>
-        <td><code>LangChain</code> <code>ChromaDB</code> <code>OpenAI</code></td>
+        <td>Natural language code search engine — indexes an entire codebase and lets you query it semantically. Built on a RAG pipeline with vector embeddings.</td>
+        <td><code>LangChain</code> <code>ChromaDB</code> <code>OpenAI</code> <code>FastAPI</code></td>
       </tr>
       <tr>
         <td><strong>🎤 <a href="https://gen-ai-xi-eight.vercel.app/">AI Voice Interviewer</a></strong></td>
-        <td>Automated voice assessment bot.</td>
-        <td><code>Whisper</code> <code>FastAPI</code> <code>LLMs</code></td>
+        <td>Automated voice assessment bot that conducts and evaluates spoken interviews using speech-to-text and LLM scoring.</td>
+        <td><code>Whisper</code> <code>FastAPI</code> <code>LLMs</code> <code>Python</code></td>
       </tr>
       <tr>
         <td><strong>📈 <a href="https://github.com/hemangsengar/StockPulse">StockPulse</a></strong></td>
-        <td>Real-time stock analysis & sentiment tracking.</td>
-        <td><code>TensorFlow</code> <code>Python</code></td>
+        <td>Real-time stock analysis and sentiment tracking dashboard. Combines price data with NLP-based news sentiment for trading signals.</td>
+        <td><code>TensorFlow</code> <code>Python</code> <code>NLP</code></td>
       </tr>
       <tr>
         <td><strong>🏠 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7422517791569764353/">Home Lab</a></strong></td>
-        <td>Self-hosted Infrastructure on Lenovo T430.</td>
-        <td><code>Ubuntu</code> <code>Docker</code> <code>K8s</code></td>
+        <td>Self-hosted infrastructure on a Lenovo T430 — running containerized services, reverse proxy, and local LLM workflows.</td>
+        <td><code>Ubuntu</code> <code>Docker</code> <code>Kubernetes</code> <code>Ollama</code></td>
       </tr>
     </tbody>
   </table>
@@ -101,3 +120,20 @@ I am a Backend Engineer and AI/ML enthusiast focused on building robust, scalabl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemangsengar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=e94560&icon_color=e94560&text_color=ffffff" height="165" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsengar&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=e94560&text_color=ffffff" height="165" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsengar&theme=radical&hide_border=true&background=0d0221&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:0f3460,100:0d0221&height=120&section=footer" alt="Footer"/>
