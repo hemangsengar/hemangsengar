@@ -64,6 +64,8 @@ Backend Engineer and AI/ML builder focused on production-ready systems. I specia
   ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
   ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+  ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure_Functions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 </div>
 
 <br/>
@@ -83,14 +85,19 @@ Backend Engineer and AI/ML builder focused on production-ready systems. I specia
     </thead>
     <tbody>
       <tr>
+        <td><strong>🛍️ <a href="https://raycreatess.com">Raycreatess</a></strong></td>
+        <td>Live digital commerce platform for Notion templates. Serverless backend handling payments, automated email delivery, and customer management — serving 200+ daily visitors with real transactions.</td>
+        <td><code>Azure Functions</code> <code>Python</code> <code>Razorpay</code> <code>PostgreSQL</code></td>
+      </tr>
+      <tr>
         <td><strong>🎵 <a href="https://github.com/hemangsengar/laughing-parakeet">Audio Optimizer Studio</a></strong></td>
         <td>AI-powered one-click audio enhancement platform. Runs a 4-stage pipeline: vocal isolation (Demucs) → denoising (Resemble Enhance) → reference mastering (Matchering) → loudness normalization to -14 LUFS.</td>
         <td><code>FastAPI</code> <code>React</code> <code>PyTorch</code> <code>Demucs</code> <code>ffmpeg</code></td>
       </tr>
       <tr>
-        <td><strong>🛍️ <a href="https://raycreatess.com">Raycreatess</a></strong></td>
-        <td>Live e-commerce platform for digital products (Notion templates). Handles payments, email delivery, and customer management end-to-end.</td>
-        <td><code>Python</code> <code>Flask</code> <code>Razorpay</code> <code>PostgreSQL</code></td>
+        <td><strong>🎤 <a href="https://gen-ai-xi-eight.vercel.app/">AI Voice Interviewer</a></strong></td>
+        <td>Real-time agentic voice interviewer using WebRTC and Gemini 1.5 with sub-1-second latency. Implements tool-use for dynamic questioning based on candidate resume data (RAG).</td>
+        <td><code>Whisper</code> <code>FastAPI</code> <code>WebRTC</code> <code>Gemini 1.5</code></td>
       </tr>
       <tr>
         <td><strong>🧠 <a href="https://github.com/hemangsengar/codebase-rag">Codebase RAG</a></strong></td>
@@ -98,14 +105,14 @@ Backend Engineer and AI/ML builder focused on production-ready systems. I specia
         <td><code>LangChain</code> <code>ChromaDB</code> <code>OpenAI</code> <code>FastAPI</code></td>
       </tr>
       <tr>
-        <td><strong>🎤 <a href="https://gen-ai-xi-eight.vercel.app/">AI Voice Interviewer</a></strong></td>
-        <td>Automated voice assessment bot that conducts and evaluates spoken interviews using speech-to-text and LLM scoring.</td>
-        <td><code>Whisper</code> <code>FastAPI</code> <code>LLMs</code> <code>Python</code></td>
+        <td><strong>🧩 <a href="https://github.com/hemangsengar/psychic-goggles">Synapse</a></strong></td>
+        <td>Adaptive quiz engine that generates intelligent quizzes from any topic using LLM APIs. Features dataclass-driven domain models, clean layered architecture, and dynamic difficulty scaling.</td>
+        <td><code>FastAPI</code> <code>SQLAlchemy</code> <code>LLM APIs</code> <code>Python</code></td>
       </tr>
       <tr>
         <td><strong>📈 <a href="https://github.com/hemangsengar/StockPulse">StockPulse</a></strong></td>
-        <td>Real-time stock analysis and sentiment tracking dashboard. Combines price data with NLP-based news sentiment for trading signals.</td>
-        <td><code>TensorFlow</code> <code>Python</code> <code>NLP</code></td>
+        <td>Hybrid prediction pipeline merging quantitative data (LSTM) with qualitative insights (news sentiment via Claude 3). Features a fail-safe inference router switching between LLM providers.</td>
+        <td><code>TensorFlow</code> <code>Claude 3</code> <code>FastAPI</code> <code>NLP</code></td>
       </tr>
       <tr>
         <td><strong>🏠 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7422517791569764353/">Home Lab</a></strong></td>
