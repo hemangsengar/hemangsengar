@@ -90,6 +90,11 @@ Backend Engineer and AI/ML builder focused on production-ready systems. I specia
         <td><code>Azure Functions</code> <code>Python</code> <code>Razorpay</code> <code>PostgreSQL</code></td>
       </tr>
       <tr>
+        <td><strong>📚 <a href="https://github.com/hemangsengar/bookish-carnival">Bookish Carnival</a></strong></td>
+        <td>Personal project repository showcasing backend + AI experiments and utilities, built as a learning playground with production-minded engineering practices.</td>
+        <td><code>Python</code> <code>FastAPI</code> <code>AI/ML</code></td>
+      </tr>
+      <tr>
         <td><strong>🎵 <a href="https://github.com/hemangsengar/laughing-parakeet">Audio Optimizer Studio</a></strong></td>
         <td>AI-powered one-click audio enhancement platform. Runs a 4-stage pipeline: vocal isolation (Demucs) → denoising (Resemble Enhance) → reference mastering (Matchering) → loudness normalization to -14 LUFS.</td>
         <td><code>FastAPI</code> <code>React</code> <code>PyTorch</code> <code>Demucs</code> <code>ffmpeg</code></td>
