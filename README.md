@@ -130,19 +130,12 @@ Backend Engineer and AI/ML builder focused on production-ready systems. I specia
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
-
 <div align="center">
-  <h2 align="center">📊 GitHub Stats</h2>
+  <h2>⚡ GitHub Analytics</h2>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsengar&theme=dracula&hide_border=true" alt="Streak" />
+
+  <br><br>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hemangsengar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsengar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsengar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer"/>
 </div>
