@@ -132,20 +132,17 @@ Backend Engineer and AI/ML builder focused on production-ready systems. I specia
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemangsengar&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=e94560&icon_color=e94560&text_color=ffffff" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsengar&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=e94560&text_color=ffffff" height="165" alt="Top Languages"/>
+  <h2 align="center">📊 GitHub Stats</h2>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hemangsengar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsengar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsengar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" alt="Footer"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsengar&theme=radical&hide_border=true&background=0d0221&ring=e94560&fire=e94560&currStreakLabel=e94560" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:0f3460,100:0d0221&height=120&section=footer" alt="Footer"/>
