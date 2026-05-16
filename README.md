@@ -46,7 +46,7 @@ I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipel
     </thead>
     <tbody>
       <tr>
-        <td><strong>🛍️ <a href="https://raycreatess.com">Raycreatess</a></strong><br/><sub>🟢 Live · 800+ customers</sub></td>
+        <td><strong>🛍️ <a href="https://raycreatess.com">Raycreatess</a></strong><br/></td>
         <td>Digital commerce platform for Notion templates aimed at CS students. Serverless backend handling Razorpay payments, automated delivery, and customer management.</td>
         <td><code>Azure Functions</code> <code>Python</code> <code>Razorpay</code> <code>PostgreSQL</code></td>
       </tr>
