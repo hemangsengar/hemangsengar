@@ -28,7 +28,6 @@ I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipel
 🎓 Final-year B.Tech CSE (AI & ML), Dayananda Sagar University, Bengaluru
 💼 Software Engineer @ Raycreatess.com
 🔬 Previously AI Engineering @ PopularDigital.ai (RAG, LLM systems)
-🛍️ Founder, Raycreatess: digital products for CS students (800+ customers)
 📍 Bengaluru, India
 ```
 
