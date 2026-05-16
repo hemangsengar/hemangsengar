@@ -170,13 +170,11 @@ I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipel
 ## ⚡ GitHub Analytics
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hemangsengar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemangsengar&theme=github-dark&hide_border=true" alt="GitHub streak" height="180" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemangsengar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
-## 🌱 Beyond the Code
 
+
+## 🌱 Beyond the Code
 I run **[Raycreatess](https://raycreatess.com)**, a digital products brand for CS students with a YouTube channel (~17K subscribers) and a Notion template store including **CS Student OS**. Building it has taught me as much about systems design and ops as anything else.
 When I'm not coding, I'm probably reading about Vedic philosophy, behavioral psychology, or sketching out the next thing I want to ship.
 <div align="center">
