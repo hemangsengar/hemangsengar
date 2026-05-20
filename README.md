@@ -175,7 +175,7 @@ I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipel
 
 
 ## 🌱 Beyond the Code
-I run **[Raycreatess](https://raycreatess.com)**, a digital products brand for CS students with a YouTube channel (~17K subscribers) and a Notion template store including **CS Student OS**. Building it has taught me as much about systems design and ops as anything else.
+I run **[Raycreatess](https://raycreatess.com)**, a digital products brand for CS students with a YouTube channel (~23K subscribers) and a Notion template store including **CS Student OS**. Building it has taught me as much about systems design and ops as anything else.
 When I'm not coding, I'm probably reading about Vedic philosophy, behavioral psychology, or sketching out the next thing I want to ship.
 <div align="center">
 <br/>
