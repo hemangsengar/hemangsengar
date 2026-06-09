@@ -25,10 +25,11 @@
 I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipelines, voice agents, scalable backends, and the occasional homelab experiment.
 
 ```yaml
-🎓 Final-year B.Tech CSE (AI & ML), Dayananda Sagar University, Bengaluru
-💼 Software Engineer @ Raycreatess.com
-🔬 Previously AI Engineering @ PopularDigital.ai (RAG, LLM systems)
+🎓 Final-year B.Tech CSE (AI & ML), Dayananda Sagar University, Bengaluru — Aug 2026
+💼 Founder & Engineer @ Raycreatess.com
+🔬 Ex AI Engineering Intern @ PopularDigital.ai (LLM pipelines, RAG, observability)
 📍 Bengaluru, India
+🚀 Actively seeking GenAI / Backend SDE roles
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
@@ -46,14 +47,19 @@ I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipel
     </thead>
     <tbody>
       <tr>
-        <td><strong>🛍️ <a href="https://raycreatess.com">Raycreatess</a></strong><br/></td>
-        <td>Digital commerce platform for Notion templates aimed at CS students. Serverless backend handling Razorpay payments, automated delivery, and customer management.</td>
+        <td><strong>🛍️ <a href="https://raycreatess.com">Raycreatess</a></strong></td>
+        <td>Digital commerce platform for Notion templates aimed at CS students. Serverless backend handling Razorpay payments, automated delivery, and customer management. 800+ paying customers.</td>
         <td><code>Azure Functions</code> <code>Python</code> <code>Razorpay</code> <code>PostgreSQL</code></td>
       </tr>
       <tr>
-        <td><strong>🎤 <a href="https://gen-ai-xi-eight.vercel.app/">AI Voice Interviewer</a></strong></td>
+        <td><strong>🎤 <a href="https://gen-ai-xi-eight.vercel.app/">AI Voice Interviewer</a></strong><br/><sub>🏆 Best Paper — IC-SMART 2026</sub></td>
         <td>Real-time agentic voice interviewer over WebRTC with sub-1-second latency. Tool-use enabled for dynamic, resume-aware questioning via RAG.</td>
-        <td><code>Whisper</code> <code>FastAPI</code> <code>WebRTC</code> <code>Gemini 1.5</code></td>
+        <td><code>Whisper</code> <code>FastAPI</code> <code>WebRTC</code> <code>LangGraph</code> <code>Gemini 1.5</code></td>
+      </tr>
+      <tr>
+        <td><strong>🤖 RAG Technical Support Bot</strong></td>
+        <td>Conversational support agent that answers queries over a private knowledge base. Retrieval pipeline with semantic chunking, reranking, and a Streamlit UI for end-to-end demo.</td>
+        <td><code>LangChain</code> <code>ChromaDB</code> <code>FastAPI</code> <code>Streamlit</code></td>
       </tr>
       <tr>
         <td><strong>🎵 <a href="https://github.com/hemangsengar/laughing-parakeet">Audio Optimizer Studio</a></strong></td>
@@ -90,17 +96,24 @@ I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipel
 
 <table>
   <tr>
-    <td width="120" align="center">📄<br/><sub>Accepted</sub></td>
-    <td>
-      <strong>Syn-SWIFT: A Synthetic SWIFT Dataset for Federated Fraud Classification</strong><br/>
-      <sub>Generated a privacy-preserving synthetic SWIFT message dataset to enable cross-bank fraud detection research without real customer data exposure.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="120" align="center">🎙️<br/><sub>Accepted</sub></td>
+    <td width="120" align="center">🎙️<br/><sub>🏆 Best Paper<br/>IC-SMART 2026</sub></td>
     <td>
       <strong>Voice-Based AI-Powered Interview System</strong><br/>
       <sub>Real-time voice interview platform combining Whisper, LLM-driven question generation, and resume-aware retrieval for adaptive technical screening. Co-authored.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">📄<br/><sub>Accepted<br/>Wccst 2026</sub></td>
+    <td>
+      <strong>MLOps Pipeline for Parkinson's Disease Detection</strong><br/>
+      <sub>End-to-end MLOps system for Parkinson's detection with automated retraining, drift monitoring, and model versioning.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="120" align="center">🏦<br/><sub>Accepted<br/>Paper ID: 404</sub></td>
+    <td>
+      <strong>Syn-SWIFT: A Synthetic SWIFT Dataset for Federated Fraud Classification</strong><br/>
+      <sub>Generated a privacy-preserving synthetic SWIFT message dataset to enable cross-bank fraud detection without real customer data exposure. Validated by VP of SWIFT at Barclays.</sub>
     </td>
   </tr>
 </table>
@@ -111,12 +124,12 @@ I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipel
 
 <table>
   <tr>
-    <td width="180"><strong>TruelyMarry.com</strong><br/><sub>Software Engineer Intern</sub></td>
-    <td>Backend services on .NET 8 / ASP.NET Core with Clean Architecture, Entity Framework Core, and SQL Server. Mobile surface in .NET MAUI.</td>
+    <td width="180"><strong>PopularDigital.ai</strong><br/><sub>AI Engineering Intern</sub><br/><sub>2024 – May 2026</sub></td>
+    <td>Built and maintained the Verde production pipeline — LLM classification using Llama 3.2/Ollama, LLM-as-Judge evaluation layer, 4-layer observability stack (Loguru + Sentry), and Playwright automation. Owned retrieval quality, serving infrastructure, and KT documentation.</td>
   </tr>
   <tr>
-    <td width="180"><strong>PopularDigital.ai</strong><br/><sub>AI Engineering Intern</sub></td>
-    <td>Maintained and extended production RAG pipelines and LLM systems. Worked on retrieval quality, evaluation, and serving infrastructure.</td>
+    <td width="180"><strong>TruelyMarry.com</strong><br/><sub>Software Engineer Intern</sub></td>
+    <td>Backend services on .NET 8 / ASP.NET Core with Clean Architecture, Entity Framework Core, and SQL Server. Mobile surface in .NET MAUI.</td>
   </tr>
   <tr>
     <td width="180"><strong>Framewise.AI / Cliqq AI</strong><br/><sub>Engineering Intern</sub></td>
@@ -151,15 +164,19 @@ I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipel
   <br/>
 
   ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
   ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
   ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
   ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logoColor=white)
+  ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
   ![Whisper](https://img.shields.io/badge/Whisper-00A67E?style=flat-square&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
   ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Loguru](https://img.shields.io/badge/Loguru-4B8BBE?style=flat-square&logoColor=white)
+  ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
   ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
   ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
   ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure_Functions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -167,10 +184,12 @@ I build backend systems and AI/ML tools that **ship**, not just demos. RAG pipel
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="divider" />
 
-
 ## 🌱 Beyond the Code
+
 I run **[Raycreatess](https://raycreatess.com)**, a digital products brand for CS students with a YouTube channel (~23K subscribers) and a Notion template store including **CS Student OS**. Building it has taught me as much about systems design and ops as anything else.
+
 When I'm not coding, I'm probably reading about Vedic philosophy, behavioral psychology, or sketching out the next thing I want to ship.
+
 <div align="center">
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:0f3460,100:0d0221&height=120&section=footer" alt="Footer"/>
