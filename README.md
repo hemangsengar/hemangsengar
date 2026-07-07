@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a1628,60:0f3460,100:e94560&height=280&section=header&text=Hemang%20Singh%20Sengar&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20AI%2FML%20Builder&descAlignY=58&descSize=18" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=720&lines=Final-year+CSE+%40+Dayananda+Sagar+University;Building+RAG+pipelines%2C+voice+agents+%26+backend+systems;Python+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+.NET;From+prototype+to+production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=E94560&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+AI+%26+Backend+Systems;Building+RAG+pipelines%2C+voice+agents+%26+backend+systems;Python+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+.NET;From+prototype+to+production)](https://git.io/typing-svg)
 
 <a href="https://www.breakingbuilds.in/"><img src="https://img.shields.io/badge/Portfolio-breakingbuilds.in-e94560?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
