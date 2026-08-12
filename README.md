@@ -10,8 +10,6 @@ I build backend systems and AI pipelines that ship, not just demo. My approach b
 
 > कर्मण्येवाधिकारस्ते मा फलेषु कदाचन — *"Your right is to the work alone, never to its fruits."* (Bhagavad Gita)
 
-Currently open to GenAI and backend engineering roles.
-
 ---
 
 <details>
