@@ -1,57 +1,56 @@
 # Hemang Singh Sengar
 
-Software Engineer · Backend & AI · Bengaluru
+**Software Engineer · Backend & AI · Bengaluru**
 
 [Portfolio](https://www.breakingbuilds.in/) · [LinkedIn](https://www.linkedin.com/in/hemangsinghsengar/) · [GitHub](https://github.com/hemangsengar) · [Email](mailto:hemang.sengar@hotmail.com)
 
----
+I build **backend systems, AI pipelines, and products that actually ship.**
 
-I build backend systems and AI pipelines that ship, not just demo. My approach borrows from karma yoga: full effort on the work, no attachment to the outcome.
+From **idea → code → deployment → real users.**
 
-> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन — *"Your right is to the work alone, never to its fruits."* (Bhagavad Gita)
+> कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
+> *Your right is to the work alone, never to its fruits.*
 
----
+### What I've Built
 
-<details>
-<summary><b>Selected Builds</b></summary>
-<br/>
+**[cantfilterme.com](https://cantfilterme.com)** — Resume builder for students & professionals
+A deployed platform focused on creating better, job-ready resumes.
 
-**[reciprocateyou](https://raycreatess.com)** — a production platform with real users
-Digital commerce platform for CS students, designed and operated end to end: serverless backend, payments, automated delivery, customer management.
-`Azure Functions` `Python` `PostgreSQL` `React/TS`
+**[reciprocateyou](https://raycreatess.com)** — Production commerce platform
+Digital platform built and operated end to end, including payments, automated delivery, and customer management.
+`Azure Functions` `Python` `PostgreSQL` `React`
 
 **[AI Voice Interviewer](https://gen-ai-xi-eight.vercel.app/)** — 🏆 Best Paper, IC-SMART 2026
-Real-time agentic voice interviewer over WebRTC, sub-1-second latency, resume-aware through RAG.
-`Whisper` `FastAPI` `WebRTC` `LangGraph` `Gemini 1.5`
+Real-time AI interviewer with resume-aware retrieval and agentic workflows.
+`Whisper` `FastAPI` `WebRTC` `LangGraph`
 
-**[Codebase RAG](https://github.com/hemangsengar/codebase-rag)** — grep, but enlightened
-Ask your repo "where do we handle auth refresh?" in plain English, via embeddings and retrieval across the codebase.
-`LangChain` `ChromaDB` `OpenAI` `FastAPI`
+**[Breaking Builds](https://www.breakingbuilds.in/)** — My engineering space
+Projects, experiments, technical write-ups, and things I'm building along the way.
 
-**[Home Lab](https://www.linkedin.com/feed/update/urn:li:activity:7422517791569764353/)** — my monastery with a fan noise problem
-Self-hosted infra on a resurrected Lenovo T430: containers, reverse proxy, local LLM workflows.
-`Ubuntu` `Docker` `Kubernetes` `Ollama`
+### Research
 
-</details>
+🏆 **Best Paper — IC-SMART 2026** · Voice-Based AI Interview System
 
-<details>
-<summary><b>Research & Publications</b></summary>
-<br/>
+**WCCST 2026 — Accepted** · MLOps Pipeline for Parkinson's Disease Detection
 
-- 🏆 **Best Paper, IC-SMART 2026** — Voice-Based AI-Powered Interview System. Real-time voice interviews combining Whisper, LLM-driven question generation, and resume-aware retrieval.
-- **WCCST 2026 (Accepted)** — MLOps Pipeline for Parkinson's Disease Detection. End-to-end system with automated retraining, drift monitoring, model versioning.
-- **Paper ID 404 (Accepted)** — Syn-SWIFT: A Synthetic SWIFT Dataset for Federated Fraud Classification. Privacy-preserving synthetic dataset for cross-bank fraud detection, validated by a VP of SWIFT at Barclays.
+**Paper ID 404 — Accepted** · Syn-SWIFT: Synthetic SWIFT Dataset for Federated Fraud Classification
 
-</details>
+### Beyond the Resume
 
-<details>
-<summary><b>A Few Things Off the Resume</b></summary>
-<br/>
+I like **building things, breaking things, and understanding why they broke.**
 
-- I learn by running things in production, reciprocateyou taught me payments, ops, and support.
-- I read Vedic philosophy and behavioral psychology in my off-hours; a 5,000-year-old framework for detachment turns out to be good engineering advice.
-- I automate what bores me so I can focus on what doesn't, hence the homelab and workflow experiments.
+I automate repetitive work, experiment with AI, and keep learning by shipping.
 
-Ask me about: RAG that retrieves the right thing · voice agents under 1s latency · idea to real users · why the Gita is a systems-design book in disguise
+I also read Vedic philosophy and behavioral psychology.
 
-</details>
+**Ask me about:** RAG · AI agents · voice systems · backend architecture · shipping products
+
+### Consistency
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hemangsengar&theme=transparent&hide_border=true" alt="Hemang's GitHub Streak" />
+</p>
+
+<p align="center">
+  <b>Consistency compounds.</b>
+</p>
