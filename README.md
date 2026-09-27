@@ -1,5 +1,5 @@
 <p align="Center">
-[Portfolio](https://www.breakingbuilds.in/) · [LinkedIn](https://www.linkedin.com/in/hemangsinghsengar/) · [GitHub](https://github.com/hemangsengar) · [Email](mailto:hemang.sengar@hotmail.com)
+[Portfolio](https://www.breakingbuilds.in/) · [LinkedIn](https://www.linkedin.com/in/hemangsinghsengar/) · [GitHub](https://github.com/hemangsengar)
 </p>
 
 <p align="center">
